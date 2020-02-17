@@ -1,0 +1,294 @@
+body {
+	font-family: ЛОМе,РВПёГчМе,Verdana,Arial,sans-serif;
+	font-size: 14px;
+}
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF0000;
+}
+
+#adtop{
+        width:958px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+	padding: 4px 0;
+}
+
+#adbottom{
+    text-align: center;
+    height:0px; 
+    overflow: hidden;
+}
+
+
+#linkall{
+        width: 100%;
+	float: left;
+	text-align: left;
+}
+
+#linkleft{
+    float: left;
+	text-align: left;
+}
+
+#linkright{
+    float: right;
+	text-align: right;
+	width:420px;
+}
+
+#readset{
+    text-align: left;
+}
+
+#title{
+    color: #ebebebc4;
+        text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 200%;
+}
+
+#info{
+        text-align: center;
+	line-height: 200%;
+}
+
+#contentmain{
+        max-width:958px;
+        margin-left: auto;
+        margin-right: auto;
+	border-right-style: dotted;
+	border-left-style: dotted;
+	border-right-color: #333333;
+	border-left-color: #333333;
+	border-right-width: 1px;
+	border-left-width: 1px;
+}
+
+#content{
+        text-align: left;
+	padding: 10px 4px 10px 4px;
+	font-size: 16px;
+}
+
+#contentdp{
+    display:none;
+}
+
+
+#copyright{
+        text-align: center;
+	line-height: 200%;
+}
+
+#headlink{
+	width: 100%;
+        min-width:960px;
+	height: 30px;
+        line-height:30px;
+	border-top: 1px solid #525152;
+	border-bottom: 1px solid #525152;
+}
+
+#footlink{
+        width:100%;
+        text-align: center;
+	line-height: 100%;
+	border-top: 1px solid #525152;
+}
+
+#foottext{
+	padding: 5px 0 0 0;
+}
+
+#adv0{
+	padding: 3px 0 0 0;
+}
+
+#adv1{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+}
+
+#adv2{
+        text-align: center;
+	padding: 0 0 5px 0;
+}
+
+#adv3{
+        text-align: center;
+	padding: 0 0 5px 0;
+}
+
+#adv300{
+        width:958px;
+        min-height:10px;
+        text-align: center;
+	padding: 0 0 5px 0;
+}
+
+#adv900{
+        width:958px;
+        min-height:10px;
+        text-align: center;
+	padding: 0 0 1px 0;
+}
+
+#adv4{
+        text-align: center;
+	padding: 20px 0 0 0;
+}
+
+#adv5{
+        width: 955px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+	padding: 0 0 12px 0;
+}
+
+#adv6{
+        text-align: center;
+	padding: 0 0 0 0;
+}
+
+.acss{
+        width: 958px;
+        text-align: left;
+	background: #000000; 
+}
+
+.css{
+        width: 958px;
+        text-align: left;
+	background: #000000; 
+}
+
+.vcss{
+	font-size: 16px;
+    background: #575757; 
+    text-align: center;
+}
+
+.ban-hyz-vcss{
+	font-size: 16px;
+    background: #e4e1d8; 
+    text-align: center;
+}
+
+.ban-vcss{
+	font-size: 16px;
+    background: #e4e1d8; 
+    text-align: center;
+}
+
+.ccss{
+    font-size: 14px;
+    background: #808080; 
+    width: 25%;
+	text-align: leftr;
+}
+.divccss{
+    font-size: 14px;
+    background: #f0f0f0; 
+    width: 25%;
+	text-align: left;
+}
+
+.article{
+    border-top: 1px solid #525152;
+	border-right: 1px solid #525152;
+    text-align: center;
+}
+
+.volume{
+	font-size: 14px;
+	padding: 3px;
+	border-left: 1px solid #525152;
+    border-bottom: 1px solid #525152;
+    background: #e4e1d8; 
+	clear: both;
+}
+
+.chapter{
+    margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #525152;
+    background: #f0f0f0; 
+    width: 100%;
+	clear: both;
+}
+
+.chapter ul{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	
+    text-align: center;
+	display: inline;
+}
+
+.chapter li{
+    float: left;
+	margin: 0px;
+	padding: 0px;
+	border-left: 1px solid #525152;
+	text-align: center;
+	line-height: 200%;
+}
+
+.chapter li.c1{
+    width: 25%;
+}
+
+.chapter li.c2{
+    width: 25%;
+}
+
+.chapter li.c3{
+    width: 25%;
+}
+
+.chapter li.c4{
+    width: 24%;
+}
+
+.chaptertitle{
+    text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 1px solid #525152;
+	line-height: 400%;
+}
+
+.chaptercontent{
+    text-align: left;
+	padding: 10px 3% 10px 3%;
+	font-size: 16px;
+}
+
+.divimage{
+    text-align: center;
+}
+
+.divimage img{
+width:100%;
+height:auto;
+cursor:pointer;
+}
+
+.imagecontent{
+}
+
+.aimage{
+	cursor: pointer;
+}
