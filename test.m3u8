@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:305
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:304.574533,
+https://drive.google.com/u/0/uc?id=1Jx2uA5IPRwI5NLrEfQJTWyiwArCQftii&export=download
+#EXTINF:296.315733,
+https://drive.google.com/u/0/uc?id=1DAN2BVwTquFr9Ss1mqLRuafWpElJKC97&export=download
+#EXTINF:299.193800,
+https://drive.google.com/u/0/uc?id=1ehilK33yS8l8ZXEDsZGzVQbIdRb8LjK1&export=download
+#EXTINF:300.069733,
+https://drive.google.com/u/0/uc?id=1ER867FxFLD8lCdFZfGKTuMrNwaChm4Kc&export=download
+#EXTINF:218.149111,
+https://drive.google.com/u/0/uc?id=1ZWJNKYKPjKTzxa4vZIVoQdoGIBzOid1g&export=download
+#EXT-X-ENDLIST
